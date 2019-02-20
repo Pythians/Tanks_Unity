@@ -10,6 +10,9 @@ EditorBuildSettings:
     guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Main.unity
+    guid: 934d98294f8fb6e449cd84b4b976daa1
+  - enabled: 1
+    path: Assets/Scenes/Tanks-Fight.unity
     guid: b3bbc013e73cb2a4095cd8e32a6b2081
   - enabled: 1
     path: Assets/Scenes/Tic-Tac-Toe.unity
